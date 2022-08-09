@@ -71,7 +71,7 @@ function scr_mensaje_correccion()
 
 function scr_matriz_prueba_1()
 	{
-	//Usando array_delete()	--- Me da un error esta función. Reportaré un caso...
+	//Usando array_delete()	--- Sin implementar aun
 	}
 function scr_matriz_prueba_2(fallo)
 	{
